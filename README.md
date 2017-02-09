@@ -1,3 +1,11 @@
+# macOS Sierra Gnuradio with gnuradio-companion and all plugins, plus gr-forphor with osmocomSDR included
+Install with the following command:
+brew install gwt gnuradio grfosphor --no-sandbox --verbose --debug
+
+Check for any errors, you may want to start with a *clean* /usr/local
+
+Ping Kevin Finisterre at Department 13 for any issues with this gnuradio (macOS Sierra Only!) formula.
+
 # Homebrew Core
 Core formulae for the Homebrew package manager.
 
